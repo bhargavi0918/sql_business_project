@@ -1,0 +1,73 @@
+S.no,Product,Category,Bought From,Quantity,Price Alloted
+1,Shop,Land,Mangalagiri,1,230000
+2,Cupboards,Furniture,Mangalagiri,8,40000
+3,Counters,Furniture,Mangalagiri,4,40000
+4,Chairs,Furniture,Mangalagiri,20,20000
+5,Boys Dress Dolls,Display items,Calcutta,20,4000
+6,Girls Dress Dolls,Display items,Calcutta,20,4000
+7,Small Dress Dolls,Display items,Calcutta,10,2000
+8,Hangers,Display items,Calcutta,10,1000
+9,Fans,Electricity items,Mangalagiri,3,4500
+10,Lights,Electricity items,Mangalagiri,5,2000
+11,Ceiling Lights,Electricity items,Mangalagiri,6,3000
+12,Switch Boards,Electricity items,Mangalagiri,2,1000
+13,Air Conditioner,Electricity items,Mangalagiri,1,30000
+14,Shop Name Board,Name Board,Mangalagiri,1,5000
+15,Indoor Plants,Interior Designing,Mangalagiri,3,500
+16,Deity idols,Interior Designing,Vijayawada,3,3000
+17,Decorative items,Interior Designing,Vijayawada,12,500
+18,Phamplets,Advertisement,Mangalagiri,100,200
+19,Broom Sticks,Maintainence,Mangalagiri,2,100
+20,Toilet Cleaners,Maintainence,Mangalagiri,2,50
+21,Hand Wash,Maintainence,Mangalagiri,1,75
+22,Bucket ,Maintainence,Mangalagiri,1,200
+23,Mug,Maintainence,Mangalagiri,1,25
+24,Floor Cleaner,Maintainence,Mangalagiri,2,30
+25,Water Filter,Maintainence,Mangalagiri,1,7000
+26,Helping Workers,Sales Worker,Mangalagiri,1,7000
+27,Computer,Billing,Vijayawada,1,50000
+28,Bill Books,Billing,Mangalagiri,10,1000
+29,Boys Baba Suits,Clothing,Calcutta,20,14000
+30,Boys Shirts,Clothing,Calcutta,20,5000
+31,Boys Jeans,Clothing,Calcutta,20,8000
+32,Boys Nicker shirts,Clothing,Calcutta,10,3000
+33,Boys Party Wear,Clothing,Calcutta,20,20000
+34,Boys T-shirts,Clothing,Clacutta,20,4000
+35,Boys Kids Wear,Clothing,Calcutta,20,4000
+36,Girls Party Wear,Clothing,Calcutta,20,20000
+37,Girls Jeans,Clothing,Calcutta,20,10000
+38,Girls Tops,Clothing,Calcutta,20,8000
+39,Girls Traditional Wear,Clothing,Calcutta,20,20000
+40,Girls T-shirts,Clothing,Calcutta,20,10000
+41,Girls Casuals,Clothing,Calcutta,20,4000
+42,Girls Kids Wear,Clothing,Calcutta,20,6000
+43,Girls Frocks,Clothing,Mumbai,20,10000
+44,Girls Jeans,Clothing,Mumbai,20,10000
+45,Girls Tops,Clothing,Mumbai,20,8000
+46,Boys Jeans,Clothing,Mumbai,20,30000
+47,Boys Party wear,Clothing,Mumbai,20,20000
+48,Girls Party wear,Clothing,Mumbai,20,25000
+49,Palaza Dresses,Clothing,Jabalpur,20,30000
+50,Chudidars,Clothing,Jabalpur,20,40000
+51,Gagras,Clothing,Jabalpur,20,50000
+52,Girls Party Wear,Clothing,Hyderabad,20,25000
+53,Mother Nighties,Clothing,Rajamundry,20,20000
+54,Kuchhu Nighties,Clothing,Rajamundry,20,20000
+55,Plain Nighties,Clothing,Rajamundry,20,20000
+56,Leggins,Clothing,Vijayawada,20,4000
+57,Tops,Clothing,Vijayawada,20,6000
+58,Chunnis,Clothing,Vijayawada,25,2500
+59,Kerchiefs,Clothing,Vijayawada,100,2000
+60,Baby Towels,Clothing,Vijayawada,10,3000
+61,Baby Sweaters,Clothing,Vijayawada,10,3000
+62,Jubbas,Clothing,Vijayawada,50,5000
+63,New Born Gift Set,Clothing,Vijayawada,20,10000
+64,New Born Caps,Clothing,Vijayawada,20,1000
+65,New Born sockes and Glooves,Clothing,Vijayawada,20,1000
+66,Girls Panties,Clothing,Vijayawada,100,6000
+67,Girls Pettycotes,Clothing,Vijayawada,100,8000
+68,Girls Bras,Clothing,Vijayawada,100,10000
+69,Boys Panties,Clothing,Vijayawada,100,6000
+70,Boys Vests,Clothing,Vijayawada,100,9000
+71,Kids Vests,Clothing,Vijayawada,100,5000
+72,Kids Panties,Clothing,Vijayawada,100,5000
